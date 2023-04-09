@@ -1,2 +1,2 @@
-# SMIT_JavaScript_Assignment1-
+# SMIT_JavaScript_Assignments
 I developed a JavaScript short program for Assignment
